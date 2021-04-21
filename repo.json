@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Unc0ver",
+        "subtitle": "Jailbreak Apps",
+        "icon": "https://repo.appinstallerios.com/unc0ver.png",
+        "url": "itms-services://?action=download-manifest&url=https://repo.appinstallerios.app/unc0ver.plist"
+    },
+    {
+        "title": "Taurine",
+        "subtitle": "Jailbreak Apps",
+        "icon": "https://repo.appinstallerios.com/taurine.png",
+        "url": "itms-services://?action=download-manifest&url=https://repo.appinstallerios.com/taurine.plist"
+    },
+    {
+        "title": "Odyssey",
+        "subtitle": "Jailbreak Apps",
+        "icon": "https://repo.appinstallerios.com/odyssey.png",
+        "url": "itms-services://?action=download-manifest&url=https://repo.appinstallerios.com/odyssey.plist"
+    },
+    {
+        "title": "Chimera",
+        "subtitle": "Jailbreak Apps",
+        "icon": "https://repo.appinstallerios.com/chimera.png",
+        "url": "itms-services://?action=download-manifest&url=https://repo.appinstallerios.com/chimera.plist"
+    },
+    {
+        "title": "Electra",
+        "subtitle": "Jailbreak Apps",
+        "icon": "https://repo.appinstallerios.com/electra.png",
+        "url": "itms-services://?action=download-manifest&url=https://repo.appinstallerios.com/electra.plist"
+    }
+]
